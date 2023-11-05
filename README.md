@@ -9,5 +9,5 @@ The decryption process requires finding the square root modulo a composite numbe
 For More Information, you may refer to articles, research papers and blogposts such as:  
 [Wikipedia](https://en.wikipedia.org/wiki/Rabin_cryptosystem)  
 [PDF](https://www.diva-portal.org/smash/get/diva2:1581080/FULLTEXT01.pdf)  
-[PDF](https://ccc.cs.uni-duesseldorf.de/~rothe/CRYPTOCOMPLEXITY2/folien-4-rabin.pdf)  
+[Slides-PDF](https://ccc.cs.uni-duesseldorf.de/~rothe/CRYPTOCOMPLEXITY2/folien-4-rabin.pdf)  
 [Book-Encyclopedia of Cryptography and Security](https://link.springer.com/referencework/10.1007/978-1-4419-5906-5)
